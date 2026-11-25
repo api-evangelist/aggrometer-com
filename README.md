@@ -66,7 +66,7 @@
 
 Aggrometer provides a gaming attention graph, aggregating data from Steam and Twitch to deliver real‑time metrics on player counts, viewership, pricing, and trends for over 2,000 games. Their REST API (key‑auth) offers endpoints for boards, game history, and search, with a self‑describing OpenAPI spec. Pricing starts at $3.99/mo for 1,000 requests/day, with higher tiers for larger volumes. The service is operated by Creative Social Media Services LLC in the USA and emphasizes privacy, offering a clear Terms of Service and Privacy Policy.
 
-**Areas:** Gaming · Data · Analytics · API · SaaS
+**Areas:** Gaming · Data · Analytics · Software-as-a-Service
 
 ## Aggrometer on APIs.io
 
@@ -84,7 +84,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Aggrometer Com Agentic Access](https://apis.io/agentic-access/aggrometer-com/aggrometer-com-agentic-access/)
+- [Aggrometer Agentic Access](https://apis.io/agentic-access/aggrometer-com/aggrometer-com-agentic-access/)
 
 #### Governance rules (1)
 
@@ -96,9 +96,9 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Aggrometer Com Authentication](https://apis.io/security/aggrometer-com/aggrometer-com-authentication/)
-- [Aggrometer Com Domain Security](https://apis.io/security/aggrometer-com/aggrometer-com-domain-security/)
-- [Aggrometer Com Vulnerability Disclosure](https://apis.io/security/aggrometer-com/aggrometer-com-vulnerability-disclosure/)
+- [Aggrometer Authentication](https://apis.io/security/aggrometer-com/aggrometer-com-authentication/)
+- [Aggrometer Domain Security](https://apis.io/security/aggrometer-com/aggrometer-com-domain-security/)
+- [Aggrometer Vulnerability Disclosure](https://apis.io/security/aggrometer-com/aggrometer-com-vulnerability-disclosure/)
 
 ## Where to find this API
 
@@ -115,25 +115,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 39.5** — developing · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 34.6** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 62.5 |
-| Contract quality | 32.1 |
-| Contract governance | 65.5 |
-| Operational transparency | 15.8 |
-| Developer ergonomics | 33.3 |
-| Access clarity | 31.6 |
+| Discoverability | 71.4 |
+| Contract quality | 36.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 14.3 |
+| Developer ergonomics | 31.0 |
+| Access clarity | 29.8 |
 
-**Agent readiness 25.8** — agent-aware
+**Agent readiness 17.6** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | bearer (partial credit) |
 | Idempotency | — |
 | Error Semantics | derived (partial credit) |
@@ -151,6 +151,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
 
